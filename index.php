@@ -86,8 +86,13 @@ select.form-control:not([size]):not([multiple]) {
 
      <div class="form-group row">
  <div class="form-group">
+<<<<<<< HEAD
 <form action="/Buinesslayers.php" method="post" >
 s
+=======
+<form action="/Buinesslayer.php" method="post" >
+
+>>>>>>> a73163cfcc723fa36f28f5c6b621c9f0b11e4427
   <select name="Selection" class="form-control">
   <option value="1">Customer data</option>
   <option value="2">Customer num</option>
